@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556141569185",
+    "firebase_url": "https://tunelystmobile.firebaseio.com",
+    "project_id": "tunelystmobile",
+    "storage_bucket": "tunelystmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556141569185:android:39176b07dab510b9e67ce0",
+        "android_client_info": {
+          "package_name": "com.tunelyst.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556141569185-9k4bblgpdv3hb25ml7ulpthb6cftm64p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunelyst.android",
+            "certificate_hash": "79c417b217298362d73acc50681449727994a165"
+          }
+        },
+        {
+          "client_id": "556141569185-1guf14gpcn1p9i658s7d5kl77tjmt77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVMFxvtnb_UsPrw867WGR25Y8X8uFrJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556141569185-1guf14gpcn1p9i658s7d5kl77tjmt77f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
